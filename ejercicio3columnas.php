@@ -36,7 +36,7 @@
 <div class="col-xxl-10 col-xs-5 col-sm-6 col-md-7 col-lg-8 col-xl-9 " style="background-color:#bab" >
 
 <h1>Imagen</h1>
-<img class="img-fluid" src="../img/a1.jpg">
+<img class="img-fluid" src="img/a1.jpg">
 </div>
 
 <div class="col-xxl-2 col-xs-7 col-sm-6 col-md-5 col-lg-4 col-xl-3" style="background-color:#aaa ">
